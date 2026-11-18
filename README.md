@@ -2,11 +2,11 @@
 
 | Project | Link |
 | :--- | :--- |
-| **Better Reload** | [github.com/fakebobcho/Better-Reload](https://github.com/fakebobcho) |
+| **Lego Sumo 15x15** | [github.com/trshcore/Lego-Sumo-15x15](https://github.com/trshcore/Lego-Sumo-15x15) |
 
 ### 📬 Contact Me
 
-You can coctact me on Discord:@trshcore
+You can contact me on Discord: **@trshcore**
 
 ### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=ТУК_ПИШИ_ТВОЕТО_ПОТРЕБИТЕЛСКО_ИМЕ&show_icons=true&theme=radical)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=trshcore&show_icons=true&theme=radical)
