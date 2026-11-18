@@ -10,7 +10,7 @@ For me, robotics isn't just a hobby—it's a true **passion**. I love designing,
 
 ### 💻 Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=js,python,cpp,html,css,git,discord&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,python,cpp,arduino,css,git,discord&theme=dark)](https://skillicons.dev)
 
 ### 📬 Contact & Coaching
 
