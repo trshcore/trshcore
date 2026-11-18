@@ -1,5 +1,9 @@
 ### 👤 About Me
 
+Hey! I'm **trshcore** — a **FIRST LEGO League Champion** and **Robotics Sumo Champion in Bulgaria** 🏆. 
+
+For me, robotics isn't just a hobby—it's a true **passion**. I love designing, building, and programming competitive robots from the ground up, pushing the limits of hardware and code. Whether you're just getting started or looking to level up your competition bot, I offer coaching, troubleshooting, and guidance over on my Discord server!
+
 | Project | Link |
 | :--- | :--- |
 | **Lego Sumo 15x15** | [github.com/trshcore/Lego-Sumo-15x15](https://github.com/trshcore/Lego-Sumo-15x15) |
@@ -14,11 +18,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 📬 Contact Me
+### 📬 Contact & Coaching
 
-You can contact me on Discord: **@trshcore**
+Need help with your robotics project or want to learn more? Let's connect:
 
-You can learn more on:  
+- **Discord:** `@trshcore`
+- **Community & Coaching:**  
 [![Discord Server](https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VFQWGHmem)
 
 ### 📊 GitHub Stats
