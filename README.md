@@ -18,5 +18,8 @@
 
 You can contact me on Discord: **@trshcore**
 
+You can learn more on:  
+[![Discord Server](https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VFQWGHmem)
+
 ### 📊 GitHub Stats
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=trshcore&show_icons=true&theme=radical)
