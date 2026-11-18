@@ -1,8 +1,8 @@
 ### 👤 About Me
 
-Hey! I'm **trshcore** — a **FIRST LEGO League Champion** and **Robotics Sumo Champion in Bulgaria** 🏆. 
+Hey! I'm **trshcore**, a **FIRST LEGO League Champion** and **Robotics Sumo Champion in Bulgaria** 🏆. 
 
-For me, robotics isn't just a hobby—it's a true **passion**. I love designing, building, and programming competitive robots from the ground up, pushing the limits of hardware and code. Whether you're just getting started or looking to level up your competition bot, I offer coaching, troubleshooting, and guidance over on my Discord server!
+For me, robotics isn't just a hobby, it's a true **passion**. I love designing, building, and programming competitive robots from the ground up, pushing the limits of hardware and code. Whether you're just getting started or looking to level up your competition bot, I offer coaching, troubleshooting, and guidance over on my Discord server!
 
 | Project | Link |
 | :--- | :--- |
